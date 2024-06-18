@@ -1,0 +1,43 @@
+# Fdb version 4
+["dvipdf"] 1713999036.99546 "CSE1-J2200071齊藤隆斗A4.dvi" "CSE1-J2200071齊藤隆斗A4.pdf" "CSE1-J2200071齊藤隆斗A4" 1713999037.47567 0
+  "CSE1-J2200071齊藤隆斗A4.dvi" 1713999036.94324 30532 e7959716fff7ad40072a2c2a3a83764d "latex"
+  (generated)
+  "CSE1-J2200071齊藤隆斗A4.pdf"
+  (rewritten before read)
+["latex"] 1713999036.18075 "CSE1-J2200071齊藤隆斗A4.tex" "CSE1-J2200071齊藤隆斗A4.dvi" "CSE1-J2200071齊藤隆斗A4" 1713999037.47457 0
+  "/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty" 1591045760 12594 0d51ac3a545aaaa555021326ff22a6cc ""
+  "/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty" 1359763108 5949 3f3fd50a8cc94c3d4cbf4fc66cd3df1c ""
+  "/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd" 1359763108 961 6518c6525a34feb5e8250ffa91731cff ""
+  "/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd" 1359763108 961 d02606146ba5601b5645f987c92e6193 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty" 1654720880 2222 78b930a5a6e3dc2ac69b78c2057b94d7 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty" 1654720880 4173 c989ee3ced31418e3593916ab26c793a ""
+  "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty" 1654720880 88393 1adf6fa3f245270d06e3d4f8910f7fc5 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty" 1654720880 4474 f04cd1cc7bd76eb033e6fb12eb6a0d77 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty" 1654720880 2444 70065bddd85997dc1fd0bb7ae634e5fa ""
+  "/usr/share/texlive/texmf-dist/tex/latex/ascmac/ascmac.sty" 1579124881 590 834565f4a016952bf667fd346b7aee71 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/ascmac/tascmac.sty" 1579124881 11463 e16f2fec3bf4db0d4002a155e4cf4467 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1465944070 1224 978390e9c2234eab29404bc21b268d1e ""
+  "/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvips.def" 1663965824 6282 3d1fff8973f8803fd81ea577dda4f3ef ""
+  "/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty" 1654720880 18387 8f900a490197ebaf93c02ae9476d4b09 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty" 1654720880 8010 a8d949cbdbc5c983593827c9eec252e1 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty" 1654720880 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty" 1654720880 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty" 1137110241 300 12fa6f636b617656f2810ee82cb05015 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd" 1137110241 548 cc4e3557704bfed27c7002773fad6c90 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-dvips.def" 1673989714 36094 f50bbd0ac1e5d89f3bafd820930998cd ""
+  "/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg" 1677530001 1829 d8258b7d94f5f955e70c623e525f9f45 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty" 1677530001 80947 75a96bb4c9f40ae31d54a01d924df2ff ""
+  "/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty" 1677530001 77021 d05e9115c67855816136d82929db8892 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty" 1656621545 62269 5c1837a5bc5db4c0d255eedc225ca44b ""
+  "/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty" 1616101747 5582 a43dedf8e5ec418356f1e9dfe5d29fc3 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty" 1654720880 13231 b52297489a0e9d929aae403417d92a02 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty" 1654720880 10214 de3e21cfc0eccc98ca7f8dac0ef263d2 ""
+  "/usr/share/texlive/texmf-dist/tex/platex/jsclasses/jsarticle.cls" 1677186565 61387 1c16fa09f9aa344f6b7ed4a7e2c399b2 ""
+  "/usr/share/texlive/texmf-dist/tex/platex/jsclasses/jslogo.sty" 1601931076 5585 8e4615c54073c390d14154b29cee89cb ""
+  "CSE1-J2200071齊藤隆斗A4.aux" 1713999036.94224 2701 8d034914eccde5b69227c4af9b8660cc "latex"
+  "CSE1-J2200071齊藤隆斗A4.tex" 1713999031.99218 17288 34a37457cf4ed816be02384ea72f539d ""
+  (generated)
+  "CSE1-J2200071齊藤隆斗A4.aux"
+  "CSE1-J2200071齊藤隆斗A4.dvi"
+  "CSE1-J2200071齊藤隆斗A4.log"
+  (rewritten before read)
